@@ -1,7 +1,6 @@
 # Pandas
-Introduction
 Pandas is an open-source Python library that provides high-performance, easy-to-use data manipulation and analysis tools. It is built on top of NumPy, another popular library for numerical computing in Python. With its powerful data structures and functions, Pandas simplifies the process of data cleaning, exploration, and preprocessing, making it an essential tool for data scientists and analysts.
-Features
+
 DataFrame: The DataFrame is a two-dimensional data structure that represents data in a tabular format, similar to a spreadsheet or SQL table. It allows for easy indexing, slicing, and reshaping of data, making it convenient for data analysis tasks.
 
 Series: A Series is a one-dimensional labeled array that can hold any data type. It is useful for representing a single column or row of data, with built-in functionality for indexing, alignment, and computation.
